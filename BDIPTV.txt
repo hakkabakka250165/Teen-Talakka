@@ -13,7 +13,7 @@
     <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 ]]></listrepeat>
-<expres>#EXTINF:-1,USA: (.*?)\n(.*)</expres>
+<expres>#EXTINF:-1,US: (.*?)\n(.*)</expres>
 <page>http://playlist.bulldogstreams.football:8000/get.php?username=jase&amp;password=jase&amp;type=m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
