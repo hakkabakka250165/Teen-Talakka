@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]TSN USA[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]USA Sports and Local[/COLOR][/I][/B]</title>
 <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -9,11 +9,11 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[makelist.param1]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Bulldog Streams IPTV IPTV[makelist.param1]</link>
     <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 ]]></listrepeat>
-<expres>#EXTINF:-1,(US) TSN (.*?)\n(.*)</expres>
+<expres>#EXTINF:-1,USA: (.*?)\n(.*)</expres>
 <page>http://playlist.bulldogstreams.football:8000/get.php?username=jase&amp;password=jase&amp;type=m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
@@ -28,7 +28,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[makelist.param1]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Bulldog Streams IPTV IPTV[makelist.param1]</link>
     <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 ]]></listrepeat>
@@ -47,11 +47,11 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[makelist.param1]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Bulldog Streams IPTV IPTV[makelist.param1]</link>
     <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 ]]></listrepeat>
-<expres>#EXTINF:-1,MIO (MIO.*?)\n(.*)</expres>
+<expres>#EXTINF:-1,MIO (.*?)\n(.*)</expres>
 <page>http://playlist.bulldogstreams.football:8000/get.php?username=jase&amp;password=jase&amp;type=m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
@@ -66,7 +66,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>[makelist.param1]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Logins4U IPTV[makelist.param1]</link>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=Bulldog Streams IPTV IPTV[makelist.param1]</link>
     <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 ]]></listrepeat>
