@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][I][COLOR deepskyblue]USA Sports and Local[/COLOR][/I][/B]</title>
+<title>[B][I][COLOR deepskyblue]USA Sports & Local[/COLOR][/I][/B]</title>
 <thumbnail>http://www.owlsdaughter.com/wp-content/uploads/2013/03/Top-secret.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/KMCZq0HKIEU/maxresdefault.jpg</fanart>
 <link>$doregex[makelist]</link>
